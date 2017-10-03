@@ -1,0 +1,48 @@
+header {
+  padding: 0.5em;
+  min-height: 7em;
+}
+header img {
+  padding: 0.5em 0;
+}
+header .menu {
+  padding: 1em 0;
+}
+header .menu .item {
+  height: 2em;
+  padding: 1.5em 0.5em !important;
+}
+
+.hero {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 10em 0 6em;
+  width: 100%;
+}
+
+.hero img {
+  padding: 0 2em;
+}
+.hero p {
+  text-align: center;
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 2.5em 1em;
+}
+
+.white.text {
+  color: white;
+}
+
+footer {
+  width: 100%;
+  background: #004030;
+  padding: 2em 0;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
